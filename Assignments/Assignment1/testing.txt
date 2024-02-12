@@ -1,1 +1,4 @@
-Testing
+Hello I'm Cody Musulin, I'm 25, I have a cat and two dogs, I enjoy hikes, computers, learning piano, and I've recently started to really enjoy going to the gym.
+I have a Bachelor's degree in biomedical sciences, and i am currently enrolled in WCC's Java program. This is my last semester at WCC where I will be getting my 
+Associate's and then deciding if I will continue to Eastern or stopping here. I don't have a ton of experience with programming as I've only been in the program for about
+a year but I've really enjoyed everything I've learned and am soaking everything up like a sponge.

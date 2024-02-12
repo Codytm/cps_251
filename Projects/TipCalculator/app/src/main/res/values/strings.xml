@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="calc_string">Calculate Tip</string>
+    <string name="dollars">Enter Bill Total</string>
+    <string name="no_value_string">YOU MUST ENTER A BILL AMOUNT</string>
+    <string name="tip_string">Tip amounts will display here</string>
+</resources>
