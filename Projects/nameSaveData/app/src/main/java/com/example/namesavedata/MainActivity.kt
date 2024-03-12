@@ -17,14 +17,14 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
 
-        binding.displayNames.text = viewModel.getResult().toString()
+        binding.displayNames1.text = viewModel.getResult().toString()
 
         binding.button.setOnClickListener{
             if (binding.editTextName.text.isNotEmpty()) {
                 viewModel.setName(binding.editTextName.text.toString())
-                binding.displayNames.text = viewModel.getResult()
+                binding.displayNames1.text = viewModel.getResult()
             } else {
-                binding.displayNames.text = "No Name Entered"
+                binding.displayNames1.text = "No Name Entered"
             }
         }
         setContentView(binding.root)
