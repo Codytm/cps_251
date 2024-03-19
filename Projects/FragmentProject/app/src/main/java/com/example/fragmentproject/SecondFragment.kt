@@ -33,10 +33,9 @@ class SecondFragment : Fragment() {
     override fun onStart() {
         super.onStart()
         arguments?.let {
-            //val args = SecondFragmentArgs.fromBundle(it)
+            val args = SecondFragmentArgs.fromBundle(it)
             //binding.argsText.text = args.message
             //Log.i("zzz",args.message1)
-            val args = SecondFragmentArgs.fromBundle(it)
             binding.argsText.text = args.title
             binding.imageView.setImageResource(args.image)
 
