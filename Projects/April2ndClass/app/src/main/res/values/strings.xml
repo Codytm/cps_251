@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">April2ndClass</string>
+    <string name="btnName">Add Name</string>
+    <string name="textName">Enter Name</string>
+</resources>
