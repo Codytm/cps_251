@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="contact_id">Contact ID</string>
+    <string name="not_assigned">Not Assigned</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="addBtn">Add</string>
+    <string name="findBtn">Find</string>
+    <string name="delete_text">Delete</string>
+    <string name="ascending">Asc</string>
+    <string name="descending">Desc</string>
+    <string name="contactName" />
+    <string name="contactNum" />
+</resources>
